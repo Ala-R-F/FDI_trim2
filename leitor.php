@@ -1,7 +1,7 @@
 <style>
 
     table {
-        background-color: #ccc;
+        background-color: #00f;
     }
 
 </style>
